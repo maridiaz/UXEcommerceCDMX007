@@ -2,8 +2,9 @@
 
 ## Preámbulo
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
+En el mundo hay muchas formas de vender y el comercio en línea se ha desarrollado
+en los últimos años. Tan solo en México durante 2016 el 75% de los internautas
+Mexicanos realizaron una compra en línea.
 Como compradores no siempre somos conscientes de todo lo que debe pasar para que
 los productos que necesitamos estén en una repisa del supermercado o de una
 tienda. En el comercio minorista hay una serie de intermediarios que en
@@ -35,6 +36,9 @@ elegir a:
 - Yi-yi portabebés
 - Kuuch Kalán
 - Darjeeling MX
+- Juntitos los dos
+
+Consulta la información de estos emprendimientos [aquí](https://docs.google.com/spreadsheets/d/1bkLd6lVd0Ev3ytCfX_20_q8wL_ENKhYXEsSU8MWNHA8/edit#gid=0)
 
 Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
 miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
