@@ -20,12 +20,7 @@ todos puedan beneficiarse en el camino.
 
 ### “Nuevo portal de e-commerce”
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a: 
+Con la finalidad de reducir la brecha tecnológica entre las y los propietarios de pequeños emprendimientos, lanzamos una iniciativa a través de la cual las estudiantes del track de UX podrán elegir a **uno** de estos negocios para asesorarles y crear un portal desde donde los consumidores puedan acceder a sus productos y servicios más fácilmente e incluso realizar una compra. Entre los emprendimientos que puedes elegir están:
 
 - Bio Aquatic
 - Cucú Caramelo
