@@ -26,11 +26,15 @@ que asesoremos a **uno** de sus miembros en crear un portal desde donde los
 consumidores compren sus productos sin intermediarios. Entre los miembros puedes
 elegir a: 
 
-- Empresa 1
-- Empresa 2
-- Empresa 3
-- Empresa 4
-- Empresa 5
+- Bio Aquatic
+- Cucú Caramelo
+- Almas Dulces
+- Vaca Sagrada
+- Luna Maya 
+- Solovino Club
+- Yi-yi portabebés
+- Kuuch Kalán
+- Darjeeling MX
 
 Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
 miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
