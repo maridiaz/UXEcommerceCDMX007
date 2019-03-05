@@ -285,8 +285,8 @@ A continuación presentamos las habilidades que deberías desarrollar durante es
 
 ### UX Design
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
+|Habilidad|
+|:---|
 |User centricity
 |Planificación
 |Entrevistas y testing
@@ -300,8 +300,8 @@ A continuación presentamos las habilidades que deberías desarrollar durante es
 
 ### Habilidades blandas
 
-|Habilidad|Nivel Esperado
-|:---|:---:|
+|Habilidad|
+|:---|
 |Planificación y organización
 |Autoaprendizaje
 |Solución de problemas
