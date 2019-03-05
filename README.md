@@ -35,12 +35,10 @@ Con la finalidad de reducir la brecha tecnológica entre las y los propietarios 
 
 Consulta la información de estos emprendimientos [aquí](https://docs.google.com/spreadsheets/d/1bkLd6lVd0Ev3ytCfX_20_q8wL_ENKhYXEsSU8MWNHA8/edit#gid=0)
 
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
+Luego de elegir con quién trabajarás, ayudarás al emprendedor o emprendedora por medio de un estudio inicial a poder 
+visualizar cómo debería ser este portal de ventas, así como una mejor forma de ofrecer los productos a los consumidores. Para 
+ello, necesitarás averiguar cómo son las y los usuarios que utilizarían este canal de venta y cuáles son sus motivaciones, 
+cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
 
 Una vez conozcas a los posibles compradores debes formular una propuesta de
 valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
@@ -282,35 +280,33 @@ mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación
 
 ## Evaluación
-
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
+Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad y cada nivel. 
+A continuación presentamos las habilidades que deberías desarrollar durante este proyecto:
 
 ### UX Design
 
 |Habilidad|Nivel Esperado|
 |:---|:---:|
-|User centricity| 4 |
-|Planificación| 3 |
-|Entrevistas y testing| 3 |
-|Observación| 2 |
-|Síntesis de resultados| 3 |
-|Flujos de usuario| 3 |
-|Arquitectura de la información| 3 |
-|Prototyping| 3 |
-|Business mindset| 4 |
-|Visual Design| 4 |
+|User centricity
+|Planificación
+|Entrevistas y testing
+|Observación
+|Síntesis de resultados
+|Flujos de usuario
+|Arquitectura de la información
+|Prototyping
+|Business mindset
+|Visual Design
 
 ### Habilidades blandas
 
-|Habilidad|Nivel Esperado|
+|Habilidad|Nivel Esperado
 |:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
+|Planificación y organización
+|Autoaprendizaje
+|Solución de problemas
+|Dar y recibir feedback
+|Adaptabilidad
+|Trabajo en equipo
+|Comunicación eficaz
+|Presentaciones
