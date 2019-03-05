@@ -2,25 +2,30 @@
 
 ## Preámbulo
 
-En el mundo hay muchas formas de vender y el comercio en línea se ha desarrollado
-en los últimos años. Tan solo en México durante 2016 el 75% de los internautas
-Mexicanos realizaron una compra en línea.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+Los modelos de negocio que hicieran exitosas a empresas en el pasado, no son los mismos que pueden llevar al éxito a las 
+empresas en la actualidad. El mundo ha cambiado y tenemos oportunidades de crecimiento para la generación de innovadores 
+modelos de negocio que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. Es 
+importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. La época de los pure players 
+se acerca a su fin.
+
+Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea. En 2017 el 65.5% de la 
+población tuvo acceso a Internet, lo que equivale a 85 millones de personas, de las cuales el 32% ya había hecho alguna compra 
+por internet.
+
+El e-commerce en México tiene un gran potencial de crecimiento, México necesita casos de éxito, pero estos casos no se 
+conseguirán en corto plazo, esto será el resultado de construir un círculo virtuoso donde quepan el progreso de la economía y 
+el de la sociedad.
+
+¿Podemos como País estar preparados para escalar modelos de negocios que tengan cabida en la nueva era?
 
 ## Introducción
 
 ### “Nuevo portal de e-commerce”
 
-Con la finalidad de reducir la brecha tecnológica entre las y los propietarios de pequeños emprendimientos, lanzamos una iniciativa a través de la cual las estudiantes del track de UX podrán elegir a **uno** de estos negocios para asesorarles y crear un portal desde donde los consumidores puedan acceder a sus productos y servicios más fácilmente e incluso realizar una compra. Entre los emprendimientos que puedes elegir están:
+Con la finalidad de reducir la brecha tecnológica entre las y los propietarios de pequeños emprendimientos, lanzamos una 
+iniciativa a través de la cual las estudiantes del track de UX podrán elegir a **uno** de estos negocios para asesorarles y 
+crear un portal desde donde los consumidores puedan acceder a sus productos y servicios más fácilmente e incluso realizar una 
+compra. Entre los emprendimientos que puedes elegir están:
 
 - Bio Aquatic
 - Cucú Caramelo
