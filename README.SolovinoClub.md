@@ -272,7 +272,7 @@ Real Time Board
 *https://realtimeboard.com/app/board/o9J_kycUSZE=/
 
 Marvel
-*https://realtimeboard.com/app/board/o9J_kxj_4X8=/
+*https://marvelapp.com/898b7fb/screen/54526670
 
 ## Hacker edition
 
