@@ -35,16 +35,21 @@ agregar los documentos complementarios que sustenten tu proceso:
 ## Definición de la solución/producto
 
 * Link de Marvel con prototipo navegable
+https://www.useloom.com/share/330038bf5de24042aae00946ee83d332
 
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
   del proyecto. 
+El contenido ayuda a explicar que dicha navegación es un scroll de seis secciones, se pretende que se entienda como sólo una. En ese scroll, el usuario puede detenerse en la sección que sea de su interés para poder tener una interacción dependiendo el filtro de su elección que lo lleve a la información deseada en otra página, la cual tiene la opción del menú con la “hamburguesa”, una flecha con el regreso a la página anterior, así como otra flecha “hacia arriba” para subir a la sección de inicio.
+ Lo anterior tiene como resultado una navegación intuitiva, amigable y fácil de entender para el usurio.
+
 * Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
   necesidades del usuario final.
+Con la propuesta de los filtros se tiene como fin dar relación al usuario que Solovino.club y The Blind Dinner Experience forman parte de la misma marca, sólo que cada una tiene un enfoque diferente (una es venta de vino y la otra es venta de boletos para cata y/o cena a ciegas) para resolver las necesidades de cada usuario dependiendo el interés de cada uno, ya sea sólo la venta en línea de vinos o consumir la experiencia de una cata o una cena a ciegas dando pie a la resolución de fines lúdicos con el propósito de que la gente pase un buen momento y olvide la rutina, el estrés cotidiano y laboral. 
 
 
 ### Otras consideraciones
 ## Presupuesto
-Para poder realizar este proyecto hay un presupuesto de 300 puntos. 
+Para poder realizar este proyecto hay un presupuesto de 300 punts. 
 Actividades utilizadas: 
 
 |Actividad|Descripción|Puntos|
@@ -73,4 +78,6 @@ Real Time Board: muestra el flujo de cómo se fue acomodando toda la informació
 
 ### Vídeo
 Vídeo que explica el documento y los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+  el `README.md` 
+* Primera parte: https://www.useloom.com/share/b0304ae396344daf8b31b81808c3f382
+* Segunda parte (explicación de prototipo): https://www.useloom.com/share/330038bf5de24042aae00946ee83d332
