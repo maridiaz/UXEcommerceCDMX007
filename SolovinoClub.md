@@ -35,7 +35,7 @@ agregar los documentos complementarios que sustenten tu proceso:
 ## Definición de la solución/producto
 
 * Link de Marvel con prototipo navegable
-https://www.useloom.com/share/330038bf5de24042aae00946ee83d332
+https://marvelapp.com/898b7fb/screen/54584123
 
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
   del proyecto. 
