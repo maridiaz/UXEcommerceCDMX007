@@ -34,8 +34,11 @@ agregar los documentos complementarios que sustenten tu proceso:
 
 ## Definición de la solución/producto
 
-* Link de Marvel con prototipo navegable
+* Link de Marvel con prototipo baja fidelidad 
 https://marvelapp.com/898b7fb/screen/54584123
+
+* Link de Balsamiq con prototipo de mediana fidelidad
+https://balsamiq.cloud/snk3on0/pbxixz8/rFEA7 
 
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
   del proyecto. 
