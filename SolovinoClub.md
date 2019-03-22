@@ -47,7 +47,8 @@ El contenido ayuda a explicar que dicha navegación es un scroll de seis seccion
 
 * Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
   necesidades del usuario final.
-Con la propuesta de los filtros se tiene como fin dar relación al usuario que Solovino.club y The Blind Dinner Experience forman parte de la misma marca, sólo que cada una tiene un enfoque diferente (una es venta de vino y la otra es venta de boletos para cata y/o cena a ciegas) para resolver las necesidades de cada usuario dependiendo el interés de cada uno, ya sea sólo la venta en línea de vinos o consumir la experiencia de una cata o una cena a ciegas dando pie a la resolución de fines lúdicos con el propósito de que la gente pase un buen momento y olvide la rutina, el estrés cotidiano y laboral. 
+
+Con la propuesta de los filtros se pretende facilitar la elección de un vino para que el usuario pueda tener una compra satisfactoria, en la página hay un chat en línea para que el usuario pueda escribir en caso de tener más dudas. Asimismo, se pretende dar relación al usuario que Solovino.club y The Blind Dinner Experience forman parte de la misma marca, sólo que cada una tiene un enfoque diferente (una es venta de vino y la otra es venta de boletos para cata y/o cena a ciegas) para resolver las necesidades de cada usuario dependiendo el interés de cada uno, ya sea sólo la venta en línea de vinos o consumir la experiencia de una cata o una cena a ciegas dando pie a la resolución de fines lúdicos con el propósito de que la gente pase un buen momento y olvide la rutina, el estrés cotidiano y laboral. 
 
 
 ### Otras consideraciones
